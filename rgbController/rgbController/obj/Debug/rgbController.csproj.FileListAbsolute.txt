@@ -1,0 +1,21 @@
+c:\users\swaglord\documents\visual studio 2015\Projects\rgbController\rgbController\bin\Debug\rgbController.exe.config
+c:\users\swaglord\documents\visual studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.csprojResolveAssemblyReference.cache
+c:\users\swaglord\documents\visual studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.Form1.resources
+c:\users\swaglord\documents\visual studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.Properties.Resources.resources
+c:\users\swaglord\documents\visual studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.csproj.GenerateResource.Cache
+c:\users\swaglord\documents\visual studio 2015\Projects\rgbController\rgbController\bin\Debug\rgbController.exe
+c:\users\swaglord\documents\visual studio 2015\Projects\rgbController\rgbController\bin\Debug\rgbController.pdb
+c:\users\swaglord\documents\visual studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.exe
+c:\users\swaglord\documents\visual studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.pdb
+c:\users\swaglord\documents\visual studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.SerialSelect.resources
+D:\BACKUP 2017-08-04\Visual Studio 2015\Projects\rgbController\rgbController\bin\Debug\rgbController.exe.config
+D:\BACKUP 2017-08-04\Visual Studio 2015\Projects\rgbController\rgbController\bin\Debug\rgbController.exe
+D:\BACKUP 2017-08-04\Visual Studio 2015\Projects\rgbController\rgbController\bin\Debug\rgbController.pdb
+D:\BACKUP 2017-08-04\Visual Studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.csprojAssemblyReference.cache
+D:\BACKUP 2017-08-04\Visual Studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.Form1.resources
+D:\BACKUP 2017-08-04\Visual Studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.Properties.Resources.resources
+D:\BACKUP 2017-08-04\Visual Studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.SerialSelect.resources
+D:\BACKUP 2017-08-04\Visual Studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.csproj.GenerateResource.cache
+D:\BACKUP 2017-08-04\Visual Studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.csproj.CoreCompileInputs.cache
+D:\BACKUP 2017-08-04\Visual Studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.exe
+D:\BACKUP 2017-08-04\Visual Studio 2015\Projects\rgbController\rgbController\obj\Debug\rgbController.pdb
